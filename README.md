@@ -1,1 +1,3 @@
 # Snake-Game-Remake
+
+This Python code implements a classic Snake game using Pygame. The main goal is to provide an interactive gaming experience where players control a snake to eat food and grow longer. The game begins with a menu where players can select a difficulty level (easy, medium, hard). Once a difficulty is chosen, the main game loop starts, where the snake moves continuously based on player input (arrow keys). The game ends if the snake collides with itself or the game window boundaries. Overall, it's designed to recreate the nostalgic gameplay of the original Snake game in a graphical environment using Pygame.
