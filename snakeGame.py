@@ -1,9 +1,9 @@
 # This is an imitation of the classic 2D game 'Snake' which has been developed using Python 
 # & the 'PyGame' framework. 
 
-# Developed by Brendan Dileo (@drendos), June 10th 2024.
+# Developed by Brendan D, June 10th 2024.
 
-# All rights due to Taneli Armanto, Snake's creator.
+# All rights due to Taneli Armanto, Snake's creator. **** THIS WAS MEANT TO BE A PROJECT TO SEE IF I COULD REPLICATE IT USING PYTHON ****
 
 # Library Imports
 import pygame # Imports 'pygame' framework
